@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 10 16:13:50 2018
 
-@author: EL11LV
+@author: Freek
 """
 
 number = 2520
