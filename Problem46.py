@@ -17,7 +17,7 @@ def Hexagonal(n):
 temp_Triangle = []
 temp_Pentagonal = []
 temp_Hexagonal = []
-for i in range(1,int(8e+04)):
+for i in range(1,int(6e+04)):
     temp_Triangle.append(Triangle(i))
     temp_Pentagonal.append(Pentagonal(i))
     temp_Hexagonal.append(Hexagonal(i))
