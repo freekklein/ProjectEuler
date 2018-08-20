@@ -24,7 +24,7 @@ for i in range(2,int(1e+07)+1):
         
     if x == 89:
         total_89 += 1
-        if i < 600: set_89.add(i)
+        if i < 200: set_89.add(i)
 
     if x == 1:
         total_1 += 1
