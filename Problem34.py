@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 20 07:32:42 2018
 
-@author: EL11LV
+@author: Freek
 """
 
 from functools import reduce
